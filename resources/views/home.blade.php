@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    
+                    Hi {{ $user->name }}
                 </div>
             </div>
         </div>
