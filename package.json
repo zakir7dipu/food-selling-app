@@ -24,6 +24,6 @@
         "vue-template-compiler": "^2.6.10"
     },
     "dependencies": {
-        "jodit": "^3.3.24"
+        "jodit": "^3.24.2"
     }
 }
